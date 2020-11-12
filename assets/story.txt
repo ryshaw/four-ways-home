@@ -1,0 +1,142 @@
+Opening
+There once was a Pig born to two incredible parents. The mom and dad loved their child very much and wanted to give him a great life.
+The Pig was never given a name, as he was always called "Pig" by his parents affectionately. He grew up loving life, spending lots of time with his parents.
+But even so, Pig was always a little mischievous. He often would wake up before his parents and wander into the grasslands nearby, eager to explore the wonders of his little kingdom.
+And as always, whenever he came back covered in scratches, his parents would scold him and tell him to not go out by himself. "It's dangerous," they kept saying.
+Pig never wanted to stop exploring, however. He loved to have these adventures, seeing all the bugs, flowers, and other animals of his little world. He said hi to each one of these creatures.
+One day, Pig returned home after the day's escapade to find that his parents weren't there. This was unusual, since they were typically so worried about him that they would run out to meet him.
+Pig was exhausted from trotting about the grasslands the whole day, so he didn't think much of it. He fell asleep in his usual spot, next to two empty beds where his parents slept.
+But when he woke up the next morning, his parents still weren't anywhere to be found. "Maybe they went out looking for me," Pig thought. He decided to stay home to see if they would come back.
+He stayed home for a few days, trying to play by himself. He wished his parents would come home soon so they could all play together, as it wasn't much fun by himself.
+Finally, one day, Pig woke up and decided he needed to find them himself. He was courageous and strong, and he knew he could find his parents. So he set out into his familiar grasslands.
+End
+
+Tutorial Level 1 WASD
+You can use WASD to move around. Avoid the thorns and the water!
+
+Tutorial Level 1 Arrows
+You can use the arrow keys and space to move around. Avoid the thorns and the water!
+
+Tutorial Level 2
+Jump on the enemies to banish them, but watch out, some of them move fast!
+
+Tutorial Level 3
+Press Q or E when next to the red flag to switch between characters! Frog can swim in water, and you can charge his hop by holding down W and then releasing.
+
+Tutorial Level 4
+Frog is the only animal that can swim in water!
+
+Tutorial Level 5
+Goat can climb up walls by walking up to them and holding A or D!
+
+Tutorial Level 7
+Cat can wall jump by pressing W when jumping onto a wall!
+
+Before Level 2
+Narrator: Pig still hasn't found his parents. Where could they be? But he does not worry, as he is strong and courageous. He knows he will find them.
+Narrator: In the distance ahead of him, Pig spots a dark splotch against the lush grassland. 'What could that be?' he ponders.
+Narrator: It appears to be. . . Pig? That's not Pig, it's a shadow that looks like Pig. And it doesn't look happy to see him. . .
+Pig: There's so many of them! I'm going to need to deal with them if I want to keep going. But why do they look like me?
+Narrator: If he's going to find his parents, Pig has to get past them. It's his only path ahead. Pig doesn't fear much, however.
+End
+
+Before Level 3
+Narrator: Pig is now getting out of his familiar area. He sees a weird-looking animal hopping around ahead of him.
+Frog: Ah, hello!
+Pig: Hi! What. . . who are you?
+Frog: I am Frog. I live here, in the marshlands. Are you from the grasslands back there?
+Pig: Yes! I'm looking for my parents. They haven't been home in a while, so I don't know where they went. . .
+Frog: It sounds like we are in the same boat. I am looking for someone, too.
+Pig: What do you mean, same boat? There aren't any boats nearby!
+Narrator: Frog lets out a cheerful croak.
+Frog: It's a way of saying that I am lost, too.
+Pig: Oh no, I'm sorry. Who are you looking for?
+Frog: I'm not looking for someone specific. I want to travel and meet anyone I come across.
+Frog: You see, I've lived here in the marshes all my life. I was living with my brother; he was the only person I knew.
+Frog: One day, he also did not come home. I was worried and asked the fishies nearby where he could have gone.
+Frog: They said they. . . last saw him helping a scorpion cross a river. I went to the other side of the river and he wasn't anywhere.
+Frog: I think you know the rest.
+Pig: Wow, I'm so sorry that happened to you. But why do you look happy?
+Frog: Because I know there's better animals out in this world. He would have wanted me to explore and meet many wonderful creatures.
+Frog: I want to help you find your parents, too. I'll help you cross the marshes!
+Pig: Wow, thank you! I'd love some company! Let's go!
+End
+
+Before Level 5
+Narrator: Pig and Frog spot a four-legged animal munching on some grass ahead.
+Pig: Hello?
+Frog: Pig, wait! It might not be friendly!
+Pig: Look, it's not a shadow. I want to say hi to it!
+Goat: I'm a she, not it.
+Pig: Oh, uh, sorry. Who are you?
+Goat: I am Goat. I am from the mountains ahead. Why are you two all the way out here?
+Frog: This little guy is looking for his parents!
+Goat: Oh . . .
+Narrator: Goat looks sad all of a sudden.
+Pig: What's wrong, uh, she?
+Goat: I'm looking for my child. She ran off one day toward the forest and hasn't returned.
+Frog: That's awful. Do you know why she went there?
+Goat: No, I have no idea. I thought I was a great mother, but now I'm not so sure. I just want to see her again.
+Pig: Maybe we can go find her together? I bet my mom and dad went over there too!
+Goat: Honestly I've almost given up on this point. I've been going farther out of the mountains each day, that's why I'm over here.
+Goat: But I get the feeling I'll never find her.
+Pig: I know it's easy to lose hope. But there has to be a good reason! I'm sure she would want to see you!
+Frog: It's no use losing hope, anyway!
+Goat: I guess I could try. At the very least, I could help you two cross the mountains. Is that okay?
+Pig: Yes please! C'mon, let's go!
+End
+
+Before Level 7
+Narrator: Pig, Frog, and Goat approach an animal curled up under a tree.
+Pig: Hello, are you awake?
+Frog: Pig, don't bother them! They're sleeping!
+Goat: I haven't seen this animal around here before. I think they might be lost.
+Pig: Hey, are you lost?
+Frog: What a good conversation starter.
+Narrator: The animal stirs awake and stretches before getting up.
+Cat: Meow?
+Pig: Do you talk?
+Cat: Oh, sorry. Yes, hello. What are you guys doing here?
+Pig: We're looking for my parents!
+Goat: And I'm looking for my child.
+Frog: Why are you near the mountains?
+Cat: I was hanging out with a friend, but we got separated and I thought I should wait for her here.
+Pig: How long have you been waiting?
+Cat: Quite a while, actually. I'm worried about her. She's not used to being by herself, and, well. . .
+Frog: What's wrong?
+Narrator: Cat looks toward the forest, distraught.
+Cat: I'm just really worried about her.
+Frog: Just friends, huh?
+Cat: Well. . . I enjoy being around her. I care about her a lot. I miss her so much.
+Pig: So you want to marry her! Like what my dad said about my mom!
+Cat: Okay, yes, I have feelings for her!
+Cat: Can you guys help me find her?
+Goat: Where do you think she would be?
+Cat: Off toward the forest, probably. That's where we've been. I don't think she would go far.
+Pig: We can help you! I'm sure we could all find what we're looking for!
+Cat: Thanks so much. I can show you across the forest. Let's go!
+End
+
+Ending
+Pig, Frog, Goat, and Cat have come a long way.
+Pig was reunited with his parents shortly after passing through the forest.
+His parents explained that they wanted to teach him a lesson about going out by himself, but they were sorry for taking so long to come back to him.
+Pig was overjoyed to see his parents again, so he didn't care.
+To this day, Pig still goes on adventures, but with his parents now.
+
+Frog was happy to meet many friendly animals during his adventures, even though some creatures were not so friendly.
+"One must get through the bad to see the good," he said.
+Frog kept adventuring beyond the forest, eager to meet all animals of the world.
+
+Goat found her child a while later. Her child was delighted to see her mother again.
+When questioned why she left home, Goat's child said she wanted to hang out with a friend in the forest, but was separated from him.
+
+Then Cat appeared, and he immediately recognized the girl. "Meow?" he said, and she replied with "Maa!"
+Cat nuzzled up next to the girl, and introduced himself to Goat as the friend of her child. Goat laughed and was happy to see that her girl had made a friend.
+
+Cat later, in private, admitted his feelings to Goat's child. She blushed and said she had feelings for him as well, but was too shy to say anything.
+To this day, Goat brings her child over to the forest to hang out with Cat. . .
+
+and the animals all found their way home.
+THE END
+End

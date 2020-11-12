@@ -1,0 +1,143 @@
+Opening
+Era uma vez um porco com dois pais incríveis. A mãe e o pai amavam muito sua criança e queriam dar uma boa vida a ele.
+O Porco nunca foi dado um nome, desde que ele sempre foi chamado carinhosamente de "Porco" pelos seus pais. Ele cresceu numa família amável, passando muito tempo com seus pais.
+Mas mesmo assim, Porco gostava de aprontar. Ele frequentemente acordava antes de seus pais e ia andar pelos campos, ansioso por explorar as maravilhas de seu pequeno reino.
+E como sempre, sempre que ele voltava com arranhões, seus pais o davam uma bronca e diziam para ele não ir sozinho. "É perigoso," eles diziam.
+Porém, Porco não queria parar de explorar. Ele amava suas aventuras, ver todos os insetos, flores, e outros animais de seu pequeno mundo. Ele cumprimentava cada uma dessas criaturas.
+Um dia, Porco voltou pra casa depois de sua escapada e descobriu que seus pais não estavam lá. Isso não era normal, desde que eles eram sempre tão preocupados que iriam correr para encontrá-lo.
+Porco estava cansado de correr pelo campo o dia todo, então ele não pensou muito sobre isso. Ele dormiu no lugar de sempre, perto das duas camas vazias onde seus pais dormiam.
+Mas quando ele acordou na manhã seguinte, os pais dele ainda não estavam em casa. "Talvez eles estivessem procurando por mim" O porco pensou. Ele decidiu ficar em casa para ver se eles voltavam.
+Ele ficou em casa por alguns dias, tentando brincar sozinho. Ele desejou que seus pais voltassem logo para que todos brincassem juntos, já que não era divertido brincar sozinho.
+Finalmente, um dia, o Porco decidiu que ele mesmo deveria achá-los. Ele era forte e corajoso, e ele sabia que conseguiria achar seus pais. Então ele começou sua busca pelos tão familiares campos.
+End
+
+Tutorial Level 1 WASD
+Use WASD para se mover. Evite a água e os espinhos!
+
+Tutorial Level 1 Arrows
+Use setas e espaço para se mover. Evite a água e os espinhos!
+
+Tutorial Level 2
+Pule nos inimigos para eliminá-los, mas cuidado, alguns deles são rápidos!
+
+Tutorial Level 3
+Use Q ou E perto da bandeira vermelha para trocar de personagem! O Sapo pode nadar, e você pode carregar seu pulo segurando W e depois soltando.
+
+Tutorial Level 4
+O Sapo é o único animal que pode nadar!
+
+Tutorial Level 5
+A Cabra pode escalar paredes segurando A ou D!
+
+Tutorial Level 7
+O gato pode pular nas paredes apertando W quando pular na parede!
+
+Before Level 2
+Narrador: O Porco ainda não achou seus pais. Onde eles estão? Mas ele não se preocupa, já que ele é forte e corajoso. Ele sabe que vai achá-los.
+Narrador: No horizonte, Porco vê uma figura sombria andando no campo. 'O que poderia ser?' ele questiona.
+Narrador: Parece ser. . . O Porco? Esse não é o Porco, mas uma sombra que parece com ele. E não está feliz em vê-lo. . .
+Porco: Tem muitos dele! Eu preciso lidar com eles se eu quiser continuar. Mas por que eles se parecem comigo?
+Narrador: Se ele vai achar seus pais, o Porco tem que passar por eles. É o único caminho. Mas, ele não tem medo.
+End
+
+Before Level 3
+Narrador: O Porco está indo além da área que está familiarizado. Ele vê um animal estranho pulando na área a sua frente.
+Sapo: Ah, olá!
+Porco: Oi! O que. . . Quem é você?
+Sapo: Eu sou o Sapo. Eu vivo aqui, no pântano. Você é do campo aí atrás?
+Porco: Sim! Estou procurando pelos meus pais. Faz um tempo que eles não voltam pra casa, e eu não sei onde foram. . .
+Sapo: Parece que estamos no mesmo barco. Estou procurando por alguém também.
+Porco: Como assim, mesmo barco? Não tem nenhum barco aqui perto!
+Narrador: O Sapo ri.
+Sapo: É um jeito de dizer que eu também estou perdido.
+Porco: Oh não, Me desculpe. Quem você está procurando?
+Sapo: Não estou procurando ninguém em específico. Eu quero viajar e conhecer todos em meu caminho.
+Sapo: Veja, eu vivo nos pântanos desde que nasci. Eu vivia com meu irmão, ele era a única pessoa que eu conhecia.
+Sapo: Um dia, ele também não voltou pra casa. Eu estava preocupado e perguntei para os peixes onde ele foi.
+Sapo: Eles disseram que. . . Viram ele ajudando um escorpião do outro lado do rio. Eu fui para o outro lado do rio e ele não estava mais lá.
+Sapo: Acho que você sabe o resto.
+Porco: Nossa, Eu sinto muito que isso aconteceu com você. Mas por que você parece tão feliz?
+Sapo: Pois eu sei que tem animais bons nesse mundo. Ele gostaria que eu explorasse e conhecesse muitas dessas maravilhosas criaturas.
+Sapo: Eu quero te ajudar a achar seus pais. Eu posso te ajudar a atravessar o pântano!
+Porco: Nossa, obrigado! Eu amaria uma companhia! Vamos lá!
+End
+
+Before Level 5
+Narrador: O Porco e o Sapo viram uma criatura de quatro patas comendo grama a frente.
+Porco: Olá?
+Sapo: Porco, espere! Talvez não seja amigável!
+Porco: Olhe, não é uma sombra. Eu quero dizer oi pra isso!
+Cabra: Eu sou ela, não isso.
+Porco: Oh, uh, desculpe. Quem é você?
+Cabra: Eu sou a Cabra. Eu sou das montanhas. O que vocês dois estão fazendo aqui?
+Sapo: Esse carinha está procurando os pais!
+Cabra: Oh. . .
+Narrador: A Cabra muda para uma expressão triste.
+Porco: O que está errado, uh, ela?
+Cabra: Estou procurando minha filha. Ela saiu em direção a floresta e não voltou.
+Sapo: Isso é horrível. Você sabe por que ela foi pra lá?
+Cabra: Não, não faço ideia. Eu achei que era uma boa mãe, mas agora não tenho certeza. Eu só queria ver ela de novo.
+Porco: Talvez nós conseguíssemos achar ela juntos? Eu acho que meus pais estão lá também!
+Cabra: Sinceramente eu já quase desisti a esse ponto. Eu vou até o fim das montanhas todos os dias, é por isso que estou aqui.
+Cabra: Mas eu sinto que nunca vou achar ela.
+Porco: Eu sei que é fácil perder as esperanças. Mas tem que ter uma boa razão! Eu tenho certeza que ela quer ver você!
+Sapo: Não adianta perder as esperanças!
+Cabra: Eu acho que eu posso tentar. Pelo menos eu consigo ajudar vocês dois a atravessar as montanhas. Pode ser?
+Porco: Sim, por favor! Vamos lá!
+End
+
+Before Level 7
+Narrador: O Porco, o Sapo, e a Cabra se aproximaram de um animal deitado debaixo de uma árvore.
+Porco: Olá, você está acordado?
+Sapo: Porco, Não incomode! Ele está dormindo!
+Cabra: Eu nunca vi esse animal por aqui. Eu acho que ele está perdido.
+Porco: Ei, você está perdido?
+Sapo: Que jeito de começar uma conversa.
+Narrador: O animal espreguiça antes de levantar.
+Gato: Miau?
+Porco: Você fala?
+Gato: Oh, perdão. Sim, olá. O que vocês estão fazendo aqui?
+Porco: Estamos procurando pelos meus pais!
+Cabra: E eu pela minha filha.
+Sapo: Porque você está perto das montanhas?
+Gato: Eu estava brincando com uma amiga, mas nos separamos, eu achei melhor esperar por ela aqui.
+Porco: Faz quanto tempo que você está esperando?
+Gato: Na verdade, faz um tempinho. Estou preocupado com ela. Ela não está acostumada a ficar sozinha, e, bem. . .
+Sapo: O que foi?
+Narrador: O Gato olha distraidamente para a floresta.
+Gato: Eu estou realmente preocupada com ela.
+Sapo: Só amigos, né?
+Gato: Bem. . . Eu gosto de ficar perto dela. Eu me importo com ela. Eu sinto muita falta dela...
+Porco: Então você quer casar com ela! Igual meu pai disse sobre minha mãe!
+Gato: Tá bom, sim, eu gosto dela!
+Gato: Vocês podem me ajudar a achá-la?
+Cabra: Onde você acha que ela está?
+Gato: Depois da floresta, provavelmente. Era onde estávamos. Eu não acho que ela foi muito longe.
+Porco: Nós podemos te ajudar! Tenho certeza que juntos podemos achar o que procuramos!
+Gato: Muito obrigado. Eu posso te mostrar a floresta. Vamos lá!
+End
+
+Ending
+O Porco, o Sapo, a Cabra, e o Gato tiveram uma longa aventura.
+O Porco encontrou seus pais logo depois de passar da floresta.
+Seus pais disseram que eles queriam lhe dar uma lição sobre sair sozinho, mas eles se desculparam por demorar tanto pra voltar.
+O Porco estava tão feliz de ver seus pais novamente, que ele não ligou.
+E até hoje, o Porco sai para suas aventuras, mas agora com seus pais.
+
+O Sapo estava feliz por conhecer muitos animais amigáveis durante suas aventuras, mesmo que alguns não fossem tão amigáveis.
+"Temos que ver o mal antes de ver o bem" ele diz.
+O Sapo continuou sua aventura depois da floresta, ansioso pra conhecer animais do mundo todo.
+
+A Cabra achou sua filha algum tempo depois. A filha estava tão feliz de ver sua mãe novamente!
+Quando sua mãe perguntou por que ela saiu de casa, a filha disse que queria conversar com um amigo na floresta, mas acabou se separando dele.
+
+E aí o Gato apareceu, e imediatamente reconheceu a menina. "Miau?" ele disse, e ela respondeu "Baa!"
+O Gato ronronou para a menina, e se apresentou para a Cabra como amigo de sua filha. A Cabra riu e ficou feliz que sua filha fez um amigo.
+
+O Gato depois, em privado, confessou seus sentimentos pela filha da Cabra.
+Ela corou e disse que sente a mesma coisa por ele, mas era muito tímida para confessar.
+Até hoje a Cabra leva sua filha para conversar com o Gato na floresta. . .
+
+E todos os animais acharam o caminho de casa.
+FIM
+End

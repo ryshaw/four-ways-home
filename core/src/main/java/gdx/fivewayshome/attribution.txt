@@ -1,0 +1,8 @@
+click: https://freesound.org/people/Mellau/sounds/506052/
+Font: AprilSans by typesprite
+Link: dafont.com/aprilsans.font
+
+
+jump on enemy: https://www.zapsplat.com/music/generic-game-tone-high-pitched-marimba-4/
+level complete: https://www.zapsplat.com/music/digital-game-sound-high-pitched-positive-success-complete-tone/
+game over: https://www.zapsplat.com/music/game-sound-synthesised-mallet-short-negative-tone-1/

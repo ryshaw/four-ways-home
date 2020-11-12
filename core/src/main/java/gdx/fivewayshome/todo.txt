@@ -1,0 +1,8 @@
+todo:
+portuguese translation
+
+
+shelved for later, if possible:
+- save state
+- fix game overs, last level won't load
+- animations!!

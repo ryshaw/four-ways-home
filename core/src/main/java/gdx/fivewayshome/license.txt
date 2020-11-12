@@ -1,0 +1,13 @@
+Created by Ryan Shaw
+ryshaw.itch.io
+github.com/ryshaw
+
+Font: AprilSans by typesprite
+Link: dafont.com/aprilsans.font
+
+Click sound: https://freesound.org/people/Mellau/sounds/506052/
+Collect sound: https://freesound.org/people/Cabeeno%20Rossley/sounds/126413/
+
+Pig jump sound: https://freesound.org/people/LloydEvans09/sounds/187024/
+Frog jump sound: https://freesound.org/people/simon.rue/sounds/61847/
+Jump sound: https://freesound.org/people/n_audioman/sounds/273566/
